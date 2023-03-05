@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'flutter demo',
+      title: 'new flutter demo',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const Loginscreen(),
     );
